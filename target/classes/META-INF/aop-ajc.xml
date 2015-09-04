@@ -1,0 +1,12 @@
+<aspectj>
+<aspects>
+<aspect name="com.tenminutes.Timer_Roo_Configurable"/>
+<aspect name="com.tenminutes.web.TimerController_Roo_Controller"/>
+<aspect name="com.tenminutes.Timer_Roo_Jpa_ActiveRecord"/>
+<aspect name="com.tenminutes.Timer_Roo_Jpa_Entity"/>
+<aspect name="com.tenminutes.Timer_Roo_JavaBean"/>
+<aspect name="com.tenminutes.web.ApplicationConversionServiceFactoryBean_Roo_ConversionService"/>
+<aspect name="com.tenminutes.Timer_Roo_ToString"/>
+</aspects>
+</aspectj>
+

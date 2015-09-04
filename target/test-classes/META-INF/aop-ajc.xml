@@ -1,0 +1,9 @@
+<aspectj>
+<aspects>
+<aspect name="com.tenminutes.TimerDataOnDemand_Roo_DataOnDemand"/>
+<aspect name="com.tenminutes.TimerIntegrationTest_Roo_IntegrationTest"/>
+<aspect name="com.tenminutes.TimerIntegrationTest_Roo_Configurable"/>
+<aspect name="com.tenminutes.TimerDataOnDemand_Roo_Configurable"/>
+</aspects>
+</aspectj>
+
